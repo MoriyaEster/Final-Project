@@ -1,3 +1,8 @@
+<div dir=rtl align=right>
+
+- hello world
+
+</div>
 open source - fairpy
 ----
 
