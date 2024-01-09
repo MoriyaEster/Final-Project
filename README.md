@@ -131,6 +131,7 @@ P=20%
 ΔOU_{str} - השינוי הממוצע בתועלת האורדינלית עבור סטודנטים אסטרטגיים.\
 ΔOU_{tr} - השינוי הממוצע בתועלת האורדינלית עבור סטודנטים דוברי אמת. \
 כך ש:
+
 ![image](https://github.com/MoriyaEster/Final-Project/assets/120458205/c2b2fecc-4c7e-46b9-96da-ac155b3c3ffe)
 את התוצאות ניתן לראות בגרפים הבאים:
 ![image](https://github.com/MoriyaEster/Final-Project/assets/120458205/17973724-0640-44d2-aef9-bf6123e73466)
