@@ -1,4 +1,4 @@
-from itertools import cycle
+from itertools import cycle   
 from fairpyx import Instance, AllocationBuilder
 
 import logging
